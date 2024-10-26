@@ -1,2 +1,2 @@
 # Spinning-donut-in-java
-Spinning Donut in Java
+Spinning Donut programmed in Java
